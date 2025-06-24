@@ -1,10 +1,27 @@
 # Awesome Android Reverse Engineering [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
+
 ## 📖 Contents
+- [APK File Viewer/Editor](#apk-file-viewereditor)
+- [My Other Awesome Lists](#my-other-awesome-lists)
+- [Contributing](#contributing)
+- [Contributors](#contributors)
 
+### APK File Viewer/Editor
+-
+-
+-
 
+### Static
+-
+-
+-
 
+### Dynamic
+-
+-
+-
 
 ### My Other Awesome Lists
 
