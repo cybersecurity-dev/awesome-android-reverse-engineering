@@ -10,7 +10,7 @@
 
 ### APK File Viewer/Editor
 -
--
+- [APK Explorer & Editor](https://github.com/apk-editor/APK-Explorer-Editor) - APK Explorer & Editor ([AEE](https://apk-editor.github.io/)), includes a set of open-source tools mainly designed to check out what's inside installed APK's, is strictly made with an aim to inspect an installed APK file.
 -
 
 ### Static
