@@ -29,6 +29,19 @@
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 
+
+## Analysing Steps
+
+### 1. Test APK (zipfile) Integrity 
+
+```bash
+zip -T <file.apk>
+```
+```bash
+zip -T -v <file.apk>
+```
+
+
 ## Tools
 
 ### APK File Viewer/Editor
