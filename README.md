@@ -40,6 +40,11 @@ zip -T <file.apk>
 ```bash
 zip -T -v <file.apk>
 ```
+### 2. Check Signatures of APK
+
+```bash
+apksigner verify <file.apk>
+```
 
 
 ## Tools
