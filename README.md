@@ -57,6 +57,7 @@ apksigner verify <file.apk>
 ### [Decompiler](https://en.wikipedia.org/wiki/Decompiler)
 
 ### [Debugging](https://en.wikipedia.org/wiki/Debugger) Tools
+- [Mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting [HTTP proxy](https://www.mitmproxy.org/) for penetration testers and software developers. 
 
 ##
 
