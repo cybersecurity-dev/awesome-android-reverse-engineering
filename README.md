@@ -51,6 +51,7 @@ apksigner verify <file.apk>
 
 ### Analysis Frameworks
 - [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework ([MobSF](https://opensecurity.in/)) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
+- [MASTG](https://github.com/OWASP/mastg) - The OWASP Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes technical processes for verifying the OWASP Mobile Security Weakness Enumeration (MASWE) weaknesses, which are in alignment with the OWASP MASVS.
 
 ### APK File Viewer/Editor
 - [APK Explorer & Editor](https://github.com/apk-editor/APK-Explorer-Editor) - APK Explorer & Editor ([AEE](https://apk-editor.github.io/)), includes a set of open-source tools mainly designed to check out what's inside installed APK's, is strictly made with an aim to inspect an installed APK file.
@@ -64,6 +65,7 @@ apksigner verify <file.apk>
 
 ### [UNI](https://wikipedia.org/wiki/Uniform_Resource_Identifier) Tools
 - [apkleaks](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for URIs, endpoints & secrets.
+
 
 ##
 
