@@ -49,6 +49,9 @@ apksigner verify <file.apk>
 
 ## Tools
 
+### Analysis Frameworks
+- [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework ([MobSF](https://opensecurity.in/)) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
+
 ### APK File Viewer/Editor
 - [APK Explorer & Editor](https://github.com/apk-editor/APK-Explorer-Editor) - APK Explorer & Editor ([AEE](https://apk-editor.github.io/)), includes a set of open-source tools mainly designed to check out what's inside installed APK's, is strictly made with an aim to inspect an installed APK file.
 
@@ -58,6 +61,9 @@ apksigner verify <file.apk>
 
 ### [Debugging](https://en.wikipedia.org/wiki/Debugger) Tools
 - [Mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting [HTTP proxy](https://www.mitmproxy.org/) for penetration testers and software developers. 
+
+### [UNI](https://wikipedia.org/wiki/Uniform_Resource_Identifier) Tools
+- [apkleaks](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for URIs, endpoints & secrets.
 
 ##
 
